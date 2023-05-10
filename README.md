@@ -1,2 +1,2 @@
-# Personality-prediction
-This is a Machine Learning based personality prediction project. 
+# Emotica
+This is a Machine Learning based emotion prediction project. 
